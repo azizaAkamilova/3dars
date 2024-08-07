@@ -1,0 +1,49 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+
+}
+header{
+    margin: 76px 63px;
+
+}
+ul{
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    font-size: 32px;
+    font-weight: 700;
+}
+
+
+h1{
+    text-align: center;
+    
+    font-size: 64px;
+    font-weight: 700;
+
+
+}
+.red{
+    background-color: red;
+    width: 558px;
+    height: 452px;
+    color:white;
+   font-size: 64px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+
+.main{
+ margin: 128px  63px;
+ display: flex;
+ justify-content: space-between;
+
+}
+footer{
+    margin: 76px 63px;
+}
